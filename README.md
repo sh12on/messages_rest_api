@@ -2,16 +2,16 @@
 ## rest api crud operations with db using flask 
 
 In order to install dependencies: 
-⋅⋅*in terminal go to folder where the "requirement.txt" file exists, 
+⋅1. in terminal go to folder where the "requirement.txt" file exists, 
 
-⋅⋅* then:
+2. then:
 pip install -r requirements.txt
 
-⋅⋅* then: 
+3. then: 
 in Python interpreter: (python) 
-  ⋅⋅* once inside type 3 commands:
-   ⋅⋅* from app import db
-   ⋅⋅* db.create_all()
+  4. once inside type 3 commands:
+   5. from app import db
+   6. db.create_all()
      ⋅⋅* exit()
    
 That's it- you are ready to go! 
