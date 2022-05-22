@@ -10,8 +10,8 @@ pip install -r requirements.txt
 3. then: 
 in Python interpreter: (python) 
    once inside type 3 commands:
-   4. from app import db
-   5. db.create_all()
-   6. exit()
+4. from app import db
+5. db.create_all()
+6. exit()
    
 That's it- you are ready to go! 
